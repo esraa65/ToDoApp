@@ -1,0 +1,11 @@
+{
+  "app_title": "To Do List",
+  "settings": "Settings",
+  "language": "Language",
+"brightness": "Brightnees",
+  "add_new_task": "Add New Task",
+  "title_of_task": "Title Of Task",
+  "details": "Details",
+  "date": "Date",
+  "add": "Add"
+}
